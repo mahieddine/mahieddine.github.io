@@ -3,6 +3,7 @@ layout: post
 title:  "Chatbots: The Last Bridge to True AI"
 date:   2016-11-13 20:00:23 +0700
 categories: [ai]
+comments: true
 ---
 
 ![](/static/img/upload/why-chatbots-are-the-last-bridge-before-true-ai/robot_man.jpeg?:s:left:rspace:)

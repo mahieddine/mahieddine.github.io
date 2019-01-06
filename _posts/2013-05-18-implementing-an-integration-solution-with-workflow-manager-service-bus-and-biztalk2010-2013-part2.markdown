@@ -3,6 +3,7 @@ layout: post
 title:  "Implementing an integration Solution with Workflow Manager/Service Bus and BizTalk 2010/2013 – Part 2"
 date:   2013-05-18 20:00:23 +0700
 categories: [eai]
+comments: true
 ---
 
 ### Workflow Manager 

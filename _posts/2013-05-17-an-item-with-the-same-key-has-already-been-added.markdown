@@ -3,6 +3,7 @@ layout: post
 title:  "An item with the same key has already been added…"
 date:   2013-05-17 20:00:23 +0700
 categories: [dotnet]
+comments: true
 ---
 
 If you use the Microsoft Framework “Microsoft ASP.NET Dynamic Data”  to build data driven web applications  you may encounter this error “An item with the same key has already been added…” in the OnPreRenderComplete Event handler method this is because you used the reserved keyword “Action” or “Table” to name a column or a table in your database, the Router use these keywords for its internal purposes and using one of this keywords causes troubles

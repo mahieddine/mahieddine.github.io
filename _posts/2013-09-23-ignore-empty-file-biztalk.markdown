@@ -3,6 +3,7 @@ layout: post
 title:  "Ignoring an empty file in BizTalk"
 date:   2013-09-23 20:00:23 +0700
 categories: [eai]
+comments: true
 ---
 Hi,
 

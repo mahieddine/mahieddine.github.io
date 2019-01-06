@@ -3,6 +3,7 @@ layout: post
 title:  "PoolWatcher"
 date:   2014-01-12 20:00:23 +0700
 categories: [experiments]
+comments: true
 ---
 
 I’m extremely happy to announce you the first version of PoolWatcher, PoolWatcher is a new app that provide you mining monitoring capabilities on YPool.net, this first version include basic features but i’m working on a new version that will provide you many big surprises to enhance your mining performance and advices 😉

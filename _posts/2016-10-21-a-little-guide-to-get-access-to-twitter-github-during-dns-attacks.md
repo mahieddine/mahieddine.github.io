@@ -3,6 +3,7 @@ layout: post
 title:  "A little guide to get access to Twitter, Github during DNS attacks"
 date:   2016-10-21 20:00:23 +0700
 categories: [experiments]
+comments: true
 ---
 
 ![cover](/static/img/upload/a-little-guide-to-get-access-twitter-github-during-dns-attacks/cover.jpeg?:xl:)

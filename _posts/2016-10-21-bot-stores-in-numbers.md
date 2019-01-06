@@ -3,6 +3,7 @@ layout: post
 title:  "Bot stores in numbers"
 date:   2016-10-21 20:00:23 +0700
 categories: [ai]
+comments: true
 ---
 
 

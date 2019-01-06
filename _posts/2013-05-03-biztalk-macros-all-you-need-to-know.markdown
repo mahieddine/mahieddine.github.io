@@ -3,6 +3,7 @@ layout: post
 title:  "BizTalk Macros – All you need to know"
 date:   2013-05-03 20:00:23 +0700
 categories: [eai]
+comments: true
 ---
 
 One of the most powerfull feature of BizTalk is the ability to set dynamic file name thanks to Macro, here you can find the list of all the macros available by default on any BizTalk Server.

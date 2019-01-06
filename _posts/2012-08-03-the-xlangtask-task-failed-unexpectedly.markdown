@@ -3,6 +3,7 @@ layout: post
 title:  "The “XLangTask” task failed unexpectedly"
 date:   2012-08-03 20:00:23 +0700
 categories: [eai]
+comments: true
 ---
 I recently got this error while i was trying to simply compile my orchestration projet so what i’ve done is i tried to change the project target, plateforme, and i got again and again the same error even with an empty new orchestration.
 

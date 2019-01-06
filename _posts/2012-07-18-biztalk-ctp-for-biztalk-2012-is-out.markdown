@@ -3,6 +3,7 @@ layout: post
 title:  "Biztalk CTP for BizTalk 2012 is out !"
 date:   2012-07-18 19:18:23 +0700
 categories: [eai]
+comments: true
 ---
 Hi,
 BizTalk CTP for BizTalk 2012 is out ! and is available for Microsoft internally and some special members only, the CTP should be available for public around October 2012 and RTM certainly in January -February 2013, in the meantime you can check the novelties for the future BizTalk’s version, i copy/past the release email from Microsoft (don’t ask me how did i get it ) 😀  

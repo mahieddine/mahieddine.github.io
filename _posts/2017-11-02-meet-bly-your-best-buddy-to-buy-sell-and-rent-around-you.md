@@ -3,6 +3,7 @@ layout: post
 title:  "Meet Bly, Your Best Buddy to Buy, Sell, and Rent Around You"
 date:   2017-11-02 20:00:23 +0700
 categories: [ai]
+comments: true
 ---
 
 #### Redefining the classifieds field one step at a time

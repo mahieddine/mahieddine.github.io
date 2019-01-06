@@ -3,6 +3,7 @@ layout: post
 title:  "From Dev to Live : Part 2 — How to A/B test your bot for Messenger & Slack."
 date:   2017-07-05 20:00:23 +0700
 categories: [ai]
+comments: true
 ---
 
 ![cover](/static/img/upload/from-dev-to-live-part-2—how-to-a-b-test-your-bot-for-messenger-and-slack/cover.png?:xl:)

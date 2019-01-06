@@ -3,6 +3,7 @@ layout: post
 title:  "How Chatbots are Going to Revolutionize the Classified Ad Industry"
 date:   2017-08-11 20:00:23 +0700
 categories: [ai]
+comments: true
 ---
 Redefining Classifieds One Step at a Time
 

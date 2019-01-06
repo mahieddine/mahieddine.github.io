@@ -3,6 +3,7 @@ layout: post
 title:  "Technologies behind Curiosity"
 date:   2012-08-07 20:00:23 +0700
 categories: [experiments]
+comments: true
 ---
 
 ![](/static/img/upload/technologies-behind-curiosity/robot.jpg)   

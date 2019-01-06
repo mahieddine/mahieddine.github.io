@@ -3,6 +3,7 @@ layout: post
 title:  "From Dev to Live : Part 1 — How to start testing and debugging your bot locally in one minute  (Hassle-free guarantee)"
 date:   2017-06-16 20:00:23 +0700
 categories: [ai]
+comments: true
 ---
 
 ![](/static/img/upload/from-dev-to-live-part-1—how-to-start-testing-and-debugging-your-bot-locally-in-one-minute/cover.png?:center:xl:)

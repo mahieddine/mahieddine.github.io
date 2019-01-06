@@ -3,6 +3,7 @@ layout: post
 title:  "Build a Biztalk solution based on WCF-SQL notification"
 date:   2012-07-11 20:18:23 +0700
 categories: [eai]
+comments: true
 ---
 When you design a biztalk solution and need to launch process based on changes that occures in database you have not so much choice and you are certainly going to choose between two solutions :
 

@@ -3,6 +3,7 @@ layout: post
 title:  "AppFabric installation failed because installer MSI returned with error code : 1603 [Windows AppFabric]"
 date:   2013-01-23 20:00:23 +0700
 categories: [dotnet]
+comments: true
 ---
 
 When i was about to install Windows AppFabric 1.1 i've gotten this error message : 

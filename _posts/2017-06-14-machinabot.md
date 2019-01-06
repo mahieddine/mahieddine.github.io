@@ -3,6 +3,7 @@ layout: post
 title:  "MachinaBot"
 date:   2017-06-14 20:00:23 +0700
 categories: [ai]
+comments: true
 ---
 
 ### The Smart Relay Gateway Designed for Bots

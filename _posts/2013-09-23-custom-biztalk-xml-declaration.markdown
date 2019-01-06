@@ -3,6 +3,7 @@ layout: post
 title:  "Custom BizTalk XML Declaration"
 date:   2013-09-23 20:00:23 +0700
 categories: [eai]
+comments: true
 ---
 
 Here is a nice little trick,  imagine you produce an xml file like this :
