@@ -39,8 +39,7 @@ Now we can install and configure Workflow Manager and Service Bus,  you must kno
 so you have to go and launch “Workflow Manager Configuration” and choose “Configure Workflow Manager with Default Settings”, then it’s just classic next next 🙂
 
 ![](/static/img/upload/implementing-an-integration-solution-with-workflow-manager-part1/install-workflow-step1.jpg)
-TODO !!
-If you encounter an error during the installation take a look here http://192.168.1.16/2013/01/23/appfabric-installation-failed-because-installer-msi-returned-with-error-code-1603-windows-appfabric/
+If you encounter an error during the installation take a look [here](/dotnet/2013/01/23/appfabric-installation-failed-because-installer-msi-returned-with-error-1603.html) 
 
 *BizTalk Server 2013 Beta
 

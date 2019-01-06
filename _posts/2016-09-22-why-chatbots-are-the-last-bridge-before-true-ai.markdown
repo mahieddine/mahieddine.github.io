@@ -5,7 +5,7 @@ date:   2016-11-13 20:00:23 +0700
 categories: [ai]
 ---
 
-![](/static/img/upload/why-chatbots-are-the-last-bridge-before-true-ai/robot_man.jpeg)
+![](/static/img/upload/why-chatbots-are-the-last-bridge-before-true-ai/robot_man.jpeg?:s:left:rspace:)
 
 **H**umans have been storing, retrieving, manipulating, and communicating information since the Sumerians in Mesopotamia developed writing in 3000 BCE. Since then, we have continuously developed more and more sophisticated means to communicate and push information. Whether unconsciously or consciously, we need more and more data faster than ever for a myriad of reasons. With every technological breakthrough that comes along, we also have a new set of new concepts that shape our world differently.
 
@@ -29,7 +29,7 @@ Don’t get me wrong, we are still innovating and using data in various ways. Bu
 
 *Storing data is good. Consume it in a social and efficient way is better.*
 --
-![](/static/img/upload/why-chatbots-are-the-last-bridge-before-true-ai/robot_child_and_woman.jpeg)
+![](/static/img/upload/why-chatbots-are-the-last-bridge-before-true-ai/robot_child_and_woman.jpeg?:s:right:lspace)
 
 Technology obviously influenced the way we interact, how social circles are formed, how we make a decision and even the way we think, but it never changed our core nature. **We are still social beings** and with all today’s technologies, word of mouth is still an important part of our lives. We still ask our friends to for advice, get recommendations from our friends about a new interesting stuff, and ask our friends for help when making important decisions in our lives. It’s no wonder that the most successful products out there are the most social ones.
 

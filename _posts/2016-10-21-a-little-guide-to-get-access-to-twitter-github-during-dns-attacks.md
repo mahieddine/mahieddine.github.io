@@ -5,7 +5,7 @@ date:   2016-10-21 20:00:23 +0700
 categories: [experiments]
 ---
 
-![cover](/static/img/upload/from-dev-to-live-part-2—how-to-a-b-test-your-bot-for-messenger-and-slack/cover.jpeg?:xl:)
+![cover](/static/img/upload/a-little-guide-to-get-access-twitter-github-during-dns-attacks/cover.jpeg?:xl:)
 
 It’s been almost a day now and that seems an eternity for me because i couldn’t get access to my basic vital websites (twitter, github), thanks god i found twitter and github’s ip addresses in my dns cache so i can share them with you.
 
