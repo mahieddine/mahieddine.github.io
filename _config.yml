@@ -33,13 +33,13 @@ share:
 
 urls:
     - text: EAI (BizTalk, Azure Services...)
-      url: /category/eai/
+      url: /category/eai
     - text: .NET
-      url: /category/dotnet/
+      url: /category/dotnet
     - text: AI
-      url: /category/ai/
+      url: /category/ai
     - text: Experiments
-      url: /category/experiments/
+      url: /category/experiments
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
