@@ -28,7 +28,7 @@ social:
       link: "https://github.com/mahieddine"
 
 share:
-  twitter_username: agusmakmun6
+  twitter_username: mahieddinech
   fb_appid: 1749788565247320
 
 urls:
@@ -41,7 +41,7 @@ urls:
     - text: Experiments
       url: /category/experiments
 
-url: "https://agusmakmun.github.io"
+url: "https://mahieddine.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
