@@ -6,12 +6,12 @@ categories: [experiments]
 comments: true
 ---
 
-![](/static/img/upload/technologies-behind-curiosity/robot.jpg)   
+![](/static/img/upload/technologies-behind-curiosity/robot.jpg?:xl:center:)   
 Late last night, Mars Science Laboratory (MSL) Curiosity successfully navigated its way through Seven Minutes of Terror and touched down on the surface of the Red Planet, heralding a new age of extraterrestrial exploration.
  A fiew moments later the first images started to come out, and this was the first “public” image
 coming from Curiosity.  There is still some dust but it’s normal.
 
-![](/static/img/upload/technologies-behind-curiosity/first_shot.jpg)
+![](/static/img/upload/technologies-behind-curiosity/first_shot.jpg?:s:left:rspace:)
 
 Now if you are a geek and curious you may want to know what kind of hardware and software have been involved ? what’s the operating system of this monster ? Which programing language has been used ?
 
