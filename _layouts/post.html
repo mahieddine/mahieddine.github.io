@@ -58,13 +58,18 @@ layout: default
   {% if page.comments %}
   <div class="disqus-comments">
     <div id="disqus_thread"></div>
-    <script>
-      (function () { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = 'https://the-coder-bear.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      var disqus_shortname = "{{ site.disqus_shortname }}";
+      var disqus_identifier = "{{ site.url }}_{{ page.title }}";
+      var disqus_title = "{{ page.title }}";
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
       })();
+      /* ]]> */
     </script>
-  </div>
+  </div>  
   {% endif %}
