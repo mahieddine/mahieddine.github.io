@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: The Coder Bear
+description: Sharing my notes and logs on technical subjects from EAIs to AI
+author: Mahieddine Cherif
+github: https://github.com/mahieddine
+about: I am a Senior BizTalk Consultant. I share here my notes and logs on technical subjects from EAIs to AI.
+disqus_shortname: coderbear
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -17,27 +17,29 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/mahieddinech"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/mahieddinech"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/in/mahieddinecherif/"
     - icon: fa-stack-exchange
-      link: "#"
+      link: "https://stackoverflow.com/users/1543306/mahieddine?tab=profile"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/mahieddine"
 
 share:
   twitter_username: agusmakmun6
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: EAI (BizTalk, Azure Services...)
+      url: /category/eai/
+    - text: .NET
+      url: /category/dotnet/
+    - text: AI
+      url: /category/ai/
+    - text: Experiments
+      url: /category/experiments/
 
 url: "https://agusmakmun.github.io"
 baseurl: ""

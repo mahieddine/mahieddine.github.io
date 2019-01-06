@@ -158,6 +158,61 @@ div.col-sm-3 img.profile-avatar {
   max-width: 100%
 }
 
+.post td, .post th {
+  padding-bottom:1em !important;
+  padding:0.4em !important;
+}
+.post table tr,.post table td,.post table th {
+  border:1px solid #333333;
+}
+
+.post img[src*=":center:"] {
+  display:block;
+  margin: 0 auto;
+}
+
+.post img[src*=":left:"] {
+  display:block;
+  float:left;
+}
+
+.post img[src*=":right:"] {
+  display:block;
+  float:right;
+}
+
+.post img[src*=":xs:"] {
+  width:20%;
+}
+
+.post img[src*=":s:"] {
+  width:50%;
+}
+
+.post img[src*=":l:"] {
+  width:80%;
+}
+
+.post img[src*=":xl:"] {
+  width:100%;
+}
+
+.post img[src*=":rspace:"] {
+  margin-right:1em;
+}
+
+.post img[src*=":lspace:"] {
+  margin-left:1em;
+}
+
+.post img[src*=":tspace:"] {
+  margin-top:1em;
+}
+
+.post img[src*=":bspace:"] {
+  margin-bottom:1em;
+}
+
 /* Responsive Conditional */
 @media (min-width: 1024px) {
   .fixed-condition {
