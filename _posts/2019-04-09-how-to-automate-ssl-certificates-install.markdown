@@ -10,24 +10,29 @@ Sometimes you might need to automate the SSL certificates installation, on windo
 
 Here is a snippet of how i personally do it in a simple bat file
 
-`@echo off
-REM here i define the list of certificates to install
-SET CERT_LIST=".\Cert1Path.cer" ".\Cert2Path.cer" ".\Cert3Path.crt" 
-`
+```bat
+@echo off  
+REM here i define the list of certificates to install  
+SET CERT_LIST=".\Cert1Path.cer" ".\Cert2Path.cer" ".\Cert3Path.crt"   
+```
 
 next if you want to import them to the **Trusted Root Certification Authorities** on Local Machine
 
-`REM Import a certificate to the “Trusted Root Certification Authorities” on Local Machine
+```bat
+REM Import a certificate to the “Trusted Root Certification Authorities” on Local Machine
 (for %%certPath in (%CERT_LIST%) do ( 
   CERTUTIL -addstore -enterprise -f -v root %%certPath
-))  `
+))
+```
 
-or If you want to import them to the **Trusted People** on Local Machine 
+or If you want to import them to the **Trusted People** on Local Machine   
 
-`REM Import a certificate to the Trusted People on Local Machine
+```bat
+REM Import a certificate to the Trusted People on Local Machine
 (for %%certPath in (%CERT_LIST%) do ( 
   CERTUTIL -addstore -f “TRUSTEDPEOPLE” -v root %%certPath
-))`
+))
+```
 
 This bat of course can be embedded as a post install task in a msi or whatever you want based on your deployment methodology.
 
