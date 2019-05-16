@@ -14,7 +14,7 @@ Deploying a WCF-Custom behavior requires deploying an assembly which is easy to 
 
 So let's get started, first you have to create a new WIX Setup Library Project  
 
-![](/static/img/upload/how-to-package-your-wcf-custom-behavior-with-wix/create-new-wix-project?:xl:left:)  
+![](/static/img/upload/how-to-package-your-wcf-custom-behavior-with-wix/create-new-wix-project.png?:xl:center:)  
 
 Give it a nice name and hit ok, now a new project is going to be created, this project contains only one xml file named Product.wxs and this is all we need to generate our msi
 
