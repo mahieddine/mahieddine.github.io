@@ -7,10 +7,9 @@ comments: true
 ---
 
 
-Developping a WCF-Custom behavior without packaging it into a beautiful autosufficient msi is like cooking without cleaning the kitchen behind you, it's bad and dirty :) 
+Developping a WCF-Custom behavior without packaging it into a beautiful self sufficient msi is like cooking without cleaning the kitchen behind you, it's bad and dirty 😐 So be nice to your mates and take 30 minutes to package your stuff correctly. 
 
-So be nice to your mate and take 30 minutes to package your stuff. 
-Deploying a WCF-Custom behavior requires deploying an assembly which is easy to do and editing the machine.config file to include the newly created behavior which is the cumbersome task that we have to deal with, fortunatly there is [WIX toolset (Windows Installer XML)](https://wixtoolset.org/) which will helps a lot to deal with that.
+Now to deploy a WCF-Custom behavior, we need to basically deploy an assembly which is easy to do and editing the machine.config file to include the newly created behavior which is the cumbersome task that we have to deal with, fortunatly there is [WIX toolset (Windows Installer XML)](https://wixtoolset.org/) which will helps a lot to automate everything.
 
 So let's get started, first you have to create a new WIX Setup Library Project  
 
@@ -18,7 +17,7 @@ So let's get started, first you have to create a new WIX Setup Library Project
 
 Give it a nice name and hit ok, now a new project is going to be created, this project contains only one xml file named Product.wxs and this is all we need to generate our msi
 
-Next just edit it like below based on your needs
+Next just edit it like below based on your needs (take care of replacing the necessary stuff)
 
 ```xml 
 <?xml version="1.0" encoding="UTF-8"?>
